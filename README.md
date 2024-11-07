@@ -47,7 +47,7 @@ Para executar o projeto, siga os passos abaixo:
    Faça o download da pasta contendo o arquivo do notebook (`.ipynb`) e a base de dados (`.csv`).
 
 2. **Upload para o Google Colab ou Jupyter Notebook**  
-   Carregue a pasta em uma plataforma que suporte notebooks Python, como Google Colab ou Jupyter Notebook.
+   Carregue a pasta em uma plataforma que suporte notebooks Python, como Google Colab (mais recomendável) ou Jupyter Notebook.
 
 3. **Executar a Análise**  
    A análise está organizada em blocos de código no notebook, cada um contendo explicações e resultados de cada etapa. Basta executar os blocos sequencialmente para replicar o processo de análise.
@@ -66,12 +66,6 @@ Dentro do notebook, você encontrará:
 ## Resultados e Insights
 
 Esta análise é voltada para compreender as métricas e fatores que contribuem para o engajamento de posts no Instagram, oferecendo insights significativos sobre a influência de variáveis, como o número de curtidas, comentários e outras interações. Também inclui testes de significância que ajudam a validar as observações coletadas.
-
----
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
 
 ---
 
